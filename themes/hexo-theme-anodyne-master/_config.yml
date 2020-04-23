@@ -1,5 +1,5 @@
 # Logo
-logo_image_source: https://avatars2.githubusercontent.com/u/27357116?s=400&u=d547847f75e76eee6e4790fbfc8a3a3dc845d03a&v=4
+logo_image_source: http://www.codeblocq.com/assets/projects/hexo-theme-anodyne/assets/anodyne.svg
 
 # Index Page
 index_banner_text: Kaluo
@@ -12,8 +12,10 @@ menu:
   Archives: /archives
   Tags: /tags
   Categories: /categories
-  About: /about.html
-  Contact: /contact.html
+  # About: /about.html
+  # Contact: /contact.html
+  About: /about
+  Contact: /contact
 
 # Post
 default_post_title: Untitled
@@ -24,8 +26,8 @@ archive_date_format: MMM YYYY
 archive_font_awesome_icon_css: fa-folder-open
 
 # About Widget
-about_widget_avatar_url: http://tachyons.io/img/avatar_1.jpg
-about_widget_text: "My name is Jonathan Klughertz and this is my blog.<br>I am a full stack software engineer with a strong front-end focus.<br> I currently live and work in Singapore, hit me up if you are in the region."
+about_widget_avatar_url: https://avatars2.githubusercontent.com/u/27357116?s=400&u=d547847f75e76eee6e4790fbfc8a3a3dc845d03a&v=4
+about_widget_text: "Welcome to Kaluo's blog"
 
 
 # Comments.

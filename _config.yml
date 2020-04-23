@@ -8,7 +8,7 @@ subtitle: Welcome to kaluo\'s blog
 description: This is kaluo\'s blog
 keywords:
 author: Kaluo
-language: zh
+language: en
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -94,8 +94,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 
-theme: landscape
-# theme: hexo-theme-anodyne-master
+# theme: landscape
+theme: hexo-theme-anodyne-master
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
