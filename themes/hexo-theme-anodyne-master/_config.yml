@@ -26,7 +26,7 @@ archive_date_format: MMM YYYY
 archive_font_awesome_icon_css: fa-folder-open
 
 # About Widget
-about_widget_avatar_url: https://avatars2.githubusercontent.com/u/27357116?s=400&u=d547847f75e76eee6e4790fbfc8a3a3dc845d03a&v=4
+about_widget_avatar_url: https://raw.githubusercontent.com/kaluogh/blog-github-source/master/avatar.jpg
 about_widget_text: "Welcome to Kaluo's blog"
 
 
