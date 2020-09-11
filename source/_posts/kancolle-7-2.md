@@ -22,7 +22,12 @@ icon: fa-music
 </div> -->
 {% asset_img map2nd7-2a.jpg P1 %}
 <br>
+DD DD DD DD
+<br>
 {% asset_img map2nd7-2b.jpg P2 %}
+<br>
+BB CAV DD DD CVL CV
+<br>
 
 
 
