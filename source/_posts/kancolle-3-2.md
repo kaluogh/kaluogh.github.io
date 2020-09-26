@@ -22,4 +22,5 @@ icon: fa-music
 
 {% asset_img map2nd3-2.jpg P1 %}
 <br>
-CL DD DD DD DD DD(6Los)
+
+{% asset_img myroute_3-2.png 路线 %}
