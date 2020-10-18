@@ -23,3 +23,5 @@ icon: fa-music
 {% asset_img map2nd1-6.jpg P1 %}
 <br>
 CL DD DD DD DD DD
+<br>
+CVB CVB CL DD DE DE
